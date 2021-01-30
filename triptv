@@ -1,0 +1,14 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 SD
+http://zn.myseries.xyz:8080/suayip/suayip1234/44048?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORT 4K
+http://raostvip.com:8080/semi16/1609.sem/102758?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 UHD
+http://rv.therevenge.co:80/live/242424/242424/80392.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://rv.therevenge.co:80/live/11223344/11223344/80397.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79391?checkedby:hlscat.com
